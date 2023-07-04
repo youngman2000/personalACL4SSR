@@ -1,1 +1,6 @@
--porxy
+# 直连列表
+
+# MyList
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6.sin.vr.org
+
